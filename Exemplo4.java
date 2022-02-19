@@ -25,7 +25,5 @@ else if (inteiro % 2 == 1) {
         System.out.println("O número é impar e negativo");
     }
 }
-else {
-    System.out.println("Não foi digitado um valor válido.");
-}
+
 
